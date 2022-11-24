@@ -4,7 +4,7 @@ This project is a book analyzer.
 
 It reads the book, find all charaters and their conections, and make a graph out of then.
 
-![alt text](https://github.com/walterBSG/Book_Analysis/blob/main/img/example.png)
+![alt text](https://github.com/walterBSG/Book_Analysis/blob/main/img/Example.png)
 
 # How to use
 
