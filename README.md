@@ -1,15 +1,25 @@
-﻿# Book_Analysis
+# Book Analysis
 
-This project is a book analyzer.
+This project is a tool for analyzing books and visualizing the relationships between characters.
 
-It reads the book, find all charaters and their conections, and make a graph out of then.
+## Overview
 
-![alt text](https://github.com/walterBSG/Book_Analysis/blob/main/img/Example.png)
+The program reads a book in the form of a text file, identifies all characters, and maps out their connections in a graph. The graph is then saved as an image in the `img` folder for easy viewing.
 
-# How to use
+![Example graph](https://github.com/walterBSG/Book_Analysis/blob/main/img/Example.png)
 
-Put your books (a txt file) on the books folder.
+## Usage
 
-Run the book_analysis.py.
+To use this program, follow these steps:
 
-The results will be on the img folder.
+1. Place your book in the `books` folder in the form of a text file.
+2. Run `book_analysis.py` by using the command line.
+3. The resulting graph will be saved in the `img` folder.
+
+## Contributions
+
+Contributions are welcome!
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
